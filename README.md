@@ -1,11 +1,11 @@
 <div align="center">
-	<img width="50%" src="?raw=true" />
-	<hr />
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=C90000&center=true&vCenter=true&width=435&lines=WannnIl+%7C+rixel0x" alt="WannnIl" /></a> <br />
+<br />
+<img width="400" src="https://github.com/WannnIl/WannnIl/blob/main/assets/syscall.png?raw=true" />
+<hr />
 	
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=C90000&center=true&vCenter=true&width=435&lines=WannnIl+%7C+rixel0x" alt="WannnIl" /></a> <br />
-	<br />
 	
- <p align="center"> 
+<p align="center"> 
   <b> Total Visits </b><br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWannnIl%2FWannnIl&countColor=%23055ec2" />
 </p>
@@ -17,6 +17,29 @@
   <a href="https://id.wikipedia.org/wiki/Firefox"><img src="https://img.shields.io/badge/Browser-Firefox-7D05C2?style=flat&logo=Firefox" /></a>
   <a href="https://ohmyz.sh/"><img src="https://img.shields.io/badge/Terminal-Oh My Zsh-green?style=flat&logo=zsh&logoColor=white"></a>
   
+<div align="center">
+  <h1 align="center">About Me</h1>
+  <img style="border-radius:10%" src="https://i.pinimg.com/736x/55/a0/cf/55a0cf768d711fbf58d0400a8c22dd0b.jpg">
+</dev>
+<div align="left"><br><br>
+  <li><b>Name : Ilham Kurniawan</b></li>
+  <li><b>Age : 22</b></li>
+  <li><b>Hobbies: Gaming, Coding, Pentesting </b></li>
+  <br><br>
+</div>
+
 	
+<div>
+  <br>
+  <h1>K️nowledge</h1>
+  <p align="center">
+	<img src="https://img.shields.io/badge/linux%20-%23323330.svg?&style=for-the-badge&logo=linux" />
+    <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript"/>
+    <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git"/>
+    <img src="https://img.shields.io/badge/kali%20-%23323330.svg?&style=for-the-badge&logo=kali-linux"/>
+    <img src="https://img.shields.io/badge/android%20-%23323330.svg?&style=for-the-badge&logo=android"/><br>
+  </p>
+</div>
   
   
