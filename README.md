@@ -19,7 +19,7 @@
   
 <div align="center">
   <h1 align="center">About Me</h1>
-  <img style="border-radius:10%" src="https://i.pinimg.com/736x/55/a0/cf/55a0cf768d711fbf58d0400a8c22dd0b.jpg">
+  <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/am.jpg">
 </dev>
 <div align="left"><br><br>
   <li><b>Name : Ilham Kurniawan</b></li>
