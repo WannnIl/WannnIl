@@ -1,7 +1,7 @@
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=C90000&center=true&vCenter=true&width=435&lines=WannnIl+%7C+rixel0x" alt="WannnIl" /></a> <br />
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=1000&color=C90000&center=true&vCenter=true&width=635&lines=WannnIl+%7C+rixel0x" alt="WannnIl" /></a> <br />
 <br />
-<img width="400" src="https://github.com/WannnIl/WannnIl/blob/main/assets/syscall.png?raw=true" />
+<img width="700" src="https://github.com/WannnIl/WannnIl/blob/main/assets/Syscall.png" />
 <hr />
 	
 	
