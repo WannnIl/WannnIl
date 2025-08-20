@@ -5,10 +5,10 @@
 <hr />
 	
 	
-<p align="center"> 
+<h2 align="center"> 
   <b> Total Visits </b><br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWannnIl%2FWannnIl&countColor=%23055ec2" />
-</p>
+</h2>
   
   <br>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?style=flat&logo=visual%20studio%20code" /></a>
