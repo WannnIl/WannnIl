@@ -6,7 +6,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=1000&color=C90000&center=true&vCenter=true&width=635&lines=WannnIl+%7C+rixel0x" alt="WannnIl" /></a> <br />
 <br />
 
-<p> إِنَّ الْأَمْرَ لَيْسَ بِيَدِكَ، فَاسْتَرْخِ وَلَا تُقَدِّرْ وَلَا تَقْلَقْ، وَدَعِ الْأُمُورَ تَجْرِي فِي مَجْرَاهَا <p> <br />
+<p>01010110 01101001 01101110 01100011 01101001 01110100 00100000 01110001 01110101 01101001 00100000 01110011 01100101 00100000 01110110 01101001 01101110 01100011 01101001 01110100<p> <br />
 	
 <h2 align="center"> 
   <b> Total Visits </b><br><br>
