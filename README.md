@@ -19,11 +19,6 @@
 </h2>
   
   
-
-<div align="center">
-  <img width="100%" href="https://github.com/WannnIl" src="https://pixel-profile.vercel.app/api/github-stats?username=WannnIl" /><br><br>
-</div>
-  
 <div align="center">
   <h1 align="center">About Me</h1>
   <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/am.jpg">
