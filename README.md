@@ -22,7 +22,6 @@
 
 <div align="center">
   <img width="100%" href="https://github.com/WannnIl" src="https://pixel-profile.vercel.app/api/github-stats?username=WannnIl" /><br><br>
-  <img width="80%" href="https://github.com/WannnIl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WannnIl&layout=compact&theme=midnight-purple&mode=standart" />
 </div>
   
 <div align="center">
