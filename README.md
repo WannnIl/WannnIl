@@ -25,12 +25,12 @@
   
 <div align="center">
   <h1 align="center">About Me</h1>
-  <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/am.jpg">
+  <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/me.jpg?raw=true">
 </dev>
-<div align="left"><br><br>
-  <li><b>Name : Ilham Kurniawan</b></li>
-  <li><b>Age : 22</b></li>
-  <li><b>Hobbies: Gaming, Coding, Pentesting </b></li>
+<div align="center"><br>
+  <h2>Name = Ilham Kurniawan</h2>
+  <h2>Age = 22</h2>
+  <h2>Hobbies = [Gaming, Coding, Pentesting]</h2>
   <br><br>
 </div>
 
