@@ -17,6 +17,10 @@
   <a href="https://id.wikipedia.org/wiki/Firefox"><img src="https://img.shields.io/badge/Browser-Firefox-7D05C2?style=flat&logo=Firefox" /></a>
   <a href="https://ohmyz.sh/"><img src="https://img.shields.io/badge/Terminal-Oh My Zsh-green?style=flat&logo=zsh&logoColor=white"></a>
 </h2>
+
+<div align="center">
+  <img width="100%" href="https://github.com/WannnIl" src="https://pixel-profile.vercel.app/api/github-stats?username=WannnIl" /><br><br>
+</div>
   
   
 <div align="center">
