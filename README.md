@@ -28,9 +28,9 @@
   <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/mee.jpg?raw=true">
 </dev>
 <div align="center"><br>
-  <h2>Name = Ilham Kurniawan</h2>
-  <h2>Age = 22</h2>
-  <h2>Hobbies = [Gaming, Coding, Pentesting]</h2>
+  <h2>Ilham Kurniawan</h2>
+  <h2>22</h2>
+  <h2>Gaming, Coding, Pentesting</h2>
   <br><br>
 </div>
 
