@@ -25,7 +25,7 @@
   
 <div align="center">
   <h1 align="center">About Me</h1>
-  <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/me.jpg?raw=true">
+  <img width="600" src="https://github.com/WannnIl/WannnIl/blob/main/assets/mee.jpg?raw=true">
 </dev>
 <div align="center"><br>
   <h2>Name = Ilham Kurniawan</h2>
